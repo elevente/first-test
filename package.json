@@ -1,0 +1,15 @@
+{
+  "name": "pixelcube-first-test-project",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "0.0.7",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.1.4",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "typescript": "^2.1.5"
+  }
+}
